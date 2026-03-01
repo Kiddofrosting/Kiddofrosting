@@ -1,4 +1,4 @@
-Hi, I'm Kiddo 👋
+Hi, I'm Caleb 👋
 
 I am a technically grounded learner focused on **Network Security and Engineering**, with a strong foundation in web development and secure system design. My current work centers on understanding how data moves across networks, how protocols behave under real conditions, and how security failures emerge at the traffic and system level.
 
